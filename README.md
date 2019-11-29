@@ -1,6 +1,6 @@
 ymr
 ===
 
-YeManRen -- 用理性唤起理性
+YeManRe
 
 Raise you with me.
